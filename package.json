@@ -2,7 +2,7 @@
   "name": "grunt-wpvue-i18n",
   "description": "Internationalize WordPress themes and plugins built with Vue.js using grunt",
   "version": "1.0.0",
-  "homepage": "https://github.com/sabbir/grunt-wp-vue-i18n",
+  "homepage": "https://github.com/sabbir1991/grunt-wpvue-i18n",
   "license": "MIT",
   "author": {
     "name": "Sabbir Ahmed",
@@ -11,7 +11,7 @@
   },
   "repository": "sabbir1991/grunt-wp-vue-i18n",
   "bugs": {
-    "url": "https://github.com/sabbir1991/grunt-wp-vue-i18n/issues"
+    "url": "https://github.com/sabbir1991/grunt-wpvue-i18n/issues"
   },
   "engines": {
     "node": ">=0.12.0"
