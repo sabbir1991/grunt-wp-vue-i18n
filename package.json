@@ -1,6 +1,6 @@
 {
-  "name": "grunt-wp-vue-i18n",
-  "description": "Internationalize WordPress themes and plugins.",
+  "name": "grunt-wpvue-i18n",
+  "description": "Internationalize WordPress themes and plugins built with Vue.js using grunt",
   "version": "1.0.0",
   "homepage": "https://github.com/sabbir/grunt-wp-vue-i18n",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "grunt-contrib-nodeunit": "^1.0.0"
   },
   "keywords": [
-    "vue-i18n"
+    "vue-i18n",
     "gruntplugin",
     "wordpress",
     "i18n",

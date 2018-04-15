@@ -1,4 +1,4 @@
-# grunt-wp-vue-i18n
+# grunt-wpvue-i18n
 
 > Internationalize WordPress themes and plugins built with Vue.js using grunt
 
@@ -6,13 +6,13 @@
 ## Install
 
 ```sh
-npm install grunt-wp-vue-i18n --save-dev
+npm install grunt-wpvue-i18n --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```sh
-grunt.loadNpmTasks( 'grunt-wp-vue-i18n' );
+grunt.loadNpmTasks( 'grunt-wpvue-i18n' );
 ```
 
 ## Tasks
